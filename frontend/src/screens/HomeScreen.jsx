@@ -8,7 +8,7 @@ function HomeScreen() {
           <div className="welcome">
             <span>
               <Link to="/Shop" className="shop-link">
-                GO SHOP!
+                GO SHOP! B BRANCH 1C
               </Link>
             </span>
             <img className="disk" src="" alt="" />
